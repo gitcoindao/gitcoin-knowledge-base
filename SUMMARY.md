@@ -71,10 +71,6 @@
   * [How do I use kudos ?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)
   * [Why can't I access my account?](gitcoin-quests/quests-faq/why-cant-i-access-my-account.md)
 
-## External links
-
-* [Moonshot Collective](https://moonshotcollective.space)
-
 ## Gitcoin Policy
 
 * [Code of Conduct](gitcoin-policy/code-of-conduct.md)
