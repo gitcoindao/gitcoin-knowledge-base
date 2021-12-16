@@ -4,13 +4,6 @@
 
 ## Gitcoin DAO
 
-* [Initiatives](gitcoin-dao/initiatives/README.md)
-  * [DAO Support](gitcoin-dao/initiatives/dao-support.md)
-* [Workstream Resources](gitcoin-dao/workstream-resources/README.md)
-  * [Full Accounting](gitcoin-dao/workstream-resources/full-accounting.md)
-  * [Full Snapshot History](gitcoin-dao/workstream-resources/full-snapshot-history.md)
-* [FDD FAQ](gitcoin-dao/fdd-faq/README.md)
-  * [What is a Sybil attack?](gitcoin-dao/fdd-faq/what-is-a-sybil-attack.md)
 * [DAO FAQ](gitcoin-dao/dao-faq/README.md)
   * [What is GitcoinDAO?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
   * [What is Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)

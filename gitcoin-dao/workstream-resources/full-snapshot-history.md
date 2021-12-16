@@ -1,2 +1,0 @@
-# Full Snapshot History
-
