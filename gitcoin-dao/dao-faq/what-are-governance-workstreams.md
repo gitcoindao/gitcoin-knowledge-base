@@ -3,7 +3,7 @@
 These are working groups created around objectives.\
 At the start four workstreams have been proposed:
 
-* Public Goods Funding
+* Public Goods Funding (PGF)
 * Fraud Defence & Detection (FDD)
 * Decentralize Gitcoin (dGitcoin)
 * Moonshot Collective (MC)

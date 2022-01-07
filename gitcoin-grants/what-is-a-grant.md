@@ -8,6 +8,7 @@ Gitcoin, with the support of the Ethereum Foundation and other matching partners
 * Round 10: 6/16/21 - 7/1/21
 * Round 11: 9/8/2021 - 9/23/21
 * Round 12: 12/1/2021 - 12/15/21
+* Round 13: 3/9/22 - 3/24/2022
 
 Read about the Gitcoin grants launch via this post:
 
