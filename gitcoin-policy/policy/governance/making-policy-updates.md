@@ -1,12 +1,12 @@
 ---
 description: >-
-  Refers only to the systems by which the text is entered into a database, NOT
-  the process of approving dao updates.  Dao changes are done by governance
-  processes.  For more about governance please refe
+  The systems by which content is entered into a database, not the process of
+  approving Dao governance changes.  Dao changes must go through the Gitcoin
+  governance process including a Steward vote.
 ---
 
 # Making Policy Updates
 
-Policy updates shall be entered in Gitbook as standard change submissions (push request) where they shall be approved or denied by ???
+Policy updates shall be entered in Gitbook as standard edit submissions (push request) where they shall be approved or denied by ???
 
-Any member of the GitcoinDAO may suggest Policy changes here:  XXXXXXX &#x20;
+Any member of the GitcoinDAO may suggest Policy changes here: XXXXXXX
