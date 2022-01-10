@@ -107,6 +107,6 @@ Let us know about your situation in the [appeals-sanctions channel on Discord.](
 
 This is a rough diagram of the appeal process. The staking amount is still to be determined and will be updated at that time. Stake is needed to deter spam.
 
-Note, as part of the decentralize Gitcoin experiment, the Appeal Process, just like the Grant Process, is also undergoing decentralization.  This means temporarily Gitcoin has two distinct Appeal Processes, the old and the new.  The new process is designed to improve upon the previous process and can be found  in the _Policy_ section, under [_Appeals_](broken-reference), at the bottom of the scroll-menu on the left.  The new process is a work-in-progress and will incorporate all the best aspects of the original.
+Note, as part of the decentralize Gitcoin experiment, the Appeal Process, just like the Grant Process, is also undergoing decentralization.  This means temporarily Gitcoin has two distinct Appeal Processes, the old and the new.  The new process is designed to improve upon the previous process and can be found  in the _Policy_ section, under [_Appeals_](broken-reference), at the bottom of the scroll-menu on the left.  The new process is a work-in-progress.
 
 ![](../../.gitbook/assets/image.png)
