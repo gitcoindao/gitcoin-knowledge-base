@@ -99,6 +99,14 @@ If a grant is denied, there is a chance that one of two things have happened.
 
 In the first situation, you will need evidence showing that the decision is made in error.
 
-For the second, you will need to clearly articulate your case.\
-\
-For both situations, the relevant information about the appeal process can be found under the [Gitcoin Policy - Appeals section.](../../gitcoin-policy/policy/appeals/appeal-process-stage-1.md)
+For the second, you will need to clearly articulate your case.
+
+To get the process started you will need a steward who will back up your claim. You can ask for one in the discord, but DO NOT send them a dm! (This could get you banned from the server)
+
+Let us know about your situation in the [appeals-sanctions channel on Discord.](https://discord.gg/YHAZXSqDvv)
+
+This is a rough diagram of the appeal process. The staking amount is still to be determined and will be updated at that time. Stake is needed to deter spam.
+
+Note, as part of the decentralize Gitcoin experiment, the Appeal Process, just like the Grant Process, is also undergoing decentralization.  This means temporarily Gitcoin has two distinct Appeal Processes, the old and the new.  The new process is designed to improve upon the previous process and can be found  in the _Policy_ section, under [_Appeals_](broken-reference), at the bottom of the scroll-menu on the left.  The new process is a work-in-progress and will incorporate all the best aspects of the original.
+
+![](../../.gitbook/assets/image.png)
