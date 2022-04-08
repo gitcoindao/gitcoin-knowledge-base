@@ -1,7 +1,5 @@
 ---
-description: >-
-  External Court-like Process*WORK IN PROGRESS* The basic steps required in a
-  second stage appeal.
+description: External Court-like Process *WORK IN PROGRESS*
 ---
 
 # Appeal Process - Stage 2
