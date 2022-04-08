@@ -12,12 +12,12 @@ description: Everything related to Gitcoin Grant Appeals.
 [introduction-to-appeals-for-denied-grants..md](introduction-to-appeals-for-denied-grants..md)
 {% endcontent-ref %}
 
-{% content-ref url="gitcoindao-appeal-group.md" %}
-[gitcoindao-appeal-group.md](gitcoindao-appeal-group.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="gitcoindao-appeal-group-qualifications.md" %}
-[gitcoindao-appeal-group-qualifications.md](gitcoindao-appeal-group-qualifications.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="appeal-process-stage-1.md" %}
