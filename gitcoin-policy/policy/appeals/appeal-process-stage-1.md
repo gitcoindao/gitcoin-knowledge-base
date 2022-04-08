@@ -1,5 +1,5 @@
 ---
-description: The basic steps required in an appeal.
+description: Stewards Vote
 ---
 
 # Appeal Process - Stage 1
